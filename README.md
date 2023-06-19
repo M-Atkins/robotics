@@ -8,6 +8,5 @@ source ~/MATTHEW_ATKINS_CMP3103M
 cd ~/MATTHEW_ATKINS_CMP3103M 
 python mazerunner_m.py
 
-https://github.com/M-Atkins/robotics/assets/43812266/ce929a3b-709d-48e4-b713-c8836b917647
-
+https://github.com/M-Atkins/robotics/assets/43812266/61e75e37-69ad-4610-bc94-2f099bb1049b
 
